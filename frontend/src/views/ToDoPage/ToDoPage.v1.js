@@ -76,7 +76,6 @@ function TodoPage(props) {
                                     <p className="item-desc">{ item }</p>
                                 </li>
                             })
-                            
                         }
                     </ul>
                 </div>
