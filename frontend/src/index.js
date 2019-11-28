@@ -6,6 +6,8 @@ import * as serviceWorker from './serviceWorker';
 import TodoPageV1 from './views/ToDoPage/ToDoPage.v1';
 import TodoPageV2 from './views/ToDoPage/ToDoPage.v2';
 import TodoPageV3 from './views/ToDoPage/ToDoPage.v3';
+import TodoPagePracticeV1 from './views/ToDoPagePractice/ToDoPage.v1';
+import TodoPagePracticeV2 from './views/ToDoPagePractice/ToDoPage.v2';
 
 ReactDOM.render(<TodoPageV3 />, document.getElementById('root'));
 
